@@ -1,0 +1,26 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "![license](https://img.shields.io/badge/license-MIT-yellowgreen)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTheAmateur/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTheAmateur/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/AlexTheAmateur/team-profile-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.1"
+  }
+}
